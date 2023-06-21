@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabia Çalık</h1>
 <h3 align="center">42Kocaeli öğrencisi / Google Oyun Uygulama Akademisi Bursiyeri</h3>
+<img align="right" alt="pixelart" width="400" src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
