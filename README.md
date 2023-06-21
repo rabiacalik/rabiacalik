@@ -1,6 +1,15 @@
+
 <h1 align="center">Hi 👋, I'm Rabia Çalık</h1>
 <h3 align="center">42Kocaeli öğrencisi / Google Oyun Uygulama Akademisi Bursiyeri</h3>
 <img align="right" alt="pixelart" width="400" src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif">
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/stats?cursusId=21&coalitionId=234" alt="rcalik's 42 stats" /></a>
+
+<a>mini_talk</a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3017875" alt="rcalik's 42 minitalk Score" /></a>
+
+<a>so_long</a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3017723" alt="rcalik's 42 so_long Score" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
