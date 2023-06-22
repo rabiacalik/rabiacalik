@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rabia çalık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabia çalık" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rabia-%C3%A7al%C4%B1k-478542253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabia çalık" height="30" width="40" /></a>
 <a href="https://instagram.com/rabireyy_plus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabireyy_plus" height="30" width="40" /></a>
 <a href="https://discord.gg/rabia#7604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rabia#7604" height="30" width="40" /></a>
 </p>
