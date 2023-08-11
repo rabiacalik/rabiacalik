@@ -7,11 +7,20 @@ mail adresim = calikrabia1562@gmail.com
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/stats?cursusId=21&coalitionId=359" alt="rcalik's 42 stats" /></a>
 <img align="right" alt="pixelart" width="400" src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif">
 
-<a>mini_talk</a>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3017875" alt="rcalik's 42 minitalk Score" /></a>
+| Project | Score | 
+| :- | :-: |
+| Libft <img width=150>| [![rcalik's 42 Libft Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/2818155)](https://github.com/rabiacalik/42_libft) |
+| ft_printf | [![stoprak's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2889152)](https://github.com/sntoprak/ft_printf_42) |
+| get_next_line | [![stoprak's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2906089)](https://github.com/sntoprak/42get_next_line) |
+</td>
+  <td style="padding:0; margin:0;">
 
-<a>so_long</a>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3017723" alt="rcalik's 42 so_long Score" /></a>
+|Project|Score| 
+| :-	|	:-:	|
+| Born2beroot | [![stoprak's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2913431)](https://github.com/JaeSeoKim/badge42) |
+| minitalk | [![stoprak's 42 minitalk Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/3047621)](https://github.com/JaeSeoKim/badge42) |
+| so_long | [![stoprak's 42 so_long Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/3154089)](https://github.com/JaeSeoKim/badge42)|
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
