@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rabia Çalık</h1>
-<h3 align="center">42Kocaeli öğrencisi / Google Oyun Uygulama Akademisi Bursiyeri</h3>
+<h3 align="center">42Kocaeli öğrencisi / Google Oyun Uygulama Akademisi Mezunu</h3>
 
 mail adresim = calikrabia1562@gmail.com
 
