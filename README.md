@@ -12,14 +12,33 @@ mail adresim = calikrabia1562@gmail.com
 | Libft <img width=150>| [![rcalik's 42 Libft Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/2818155)](https://github.com/rabiacalik/42_libft) |
 | ft_printf | [![stoprak's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2889152)](https://github.com/sntoprak/ft_printf_42) |
 | get_next_line | [![stoprak's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2906089)](https://github.com/sntoprak/42get_next_line) |
+| Born2beroot | [![rcalik's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/2914906)](https://github.com/rabiacalik/42_Born2beroot) |
 </td>
   <td style="padding:0; margin:0;">
 
 |Project|Score| 
 | :-	|	:-:	|
-| Born2beroot | [![stoprak's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2913431)](https://github.com/JaeSeoKim/badge42) |
-| minitalk | [![stoprak's 42 minitalk Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/3047621)](https://github.com/JaeSeoKim/badge42) |
-| so_long | [![stoprak's 42 so_long Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/3154089)](https://github.com/JaeSeoKim/badge42)|
+| Mini_talk | [![rcalik's 42 minitalk Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3017875)](https://github.com/rabiacalik/42_Minitalk) |
+| push_swap | [![rcalik's 42 push_swap Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3083490)](https://github.com/rabiacalik/42_push_swap) |
+| so_long | [![rcalik's 42 so_long Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3017723)](https://github.com/rabiacalik/42_so_long) |
+| Exam_Rank_02 | [![rcalik's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3083489)](https://github.com/rabiacalik/42_ExamRank02) |
+
+|Project|Score| 
+| :-	|	:-:	|
+| philosophers | [![rcalik's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3175643)](https://github.com/rabiacalik/42_Philosophers) |
+| Minishell | [![rcalik's 42 minishell Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3205995)](https://github.com/rabiacalik/42_MiniShell) |
+| Exam_Rank_03 | [![rcalik's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clj5j87fc005408l7lcwdoyyn/project/3184355)](https://github.com/rabiacalik/42_Exam_Rank_03) |
+
+|Project|Score| 
+| :-	|	:-:	|
+| Cup3d |  |
+| Netpractice |  |
+| CPP_00 |  |
+| CPP_01 |  |
+| CPP_02 |  |
+| CPP_03 |  |
+| CPP_04 |  |
+| Exam_Rank_04 |  |
 
 
 <h3 align="left">Connect with me:</h3>
