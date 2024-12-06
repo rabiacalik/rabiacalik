@@ -1,7 +1,7 @@
 
 <img align="right" alt="pixelart" width="400" src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif">
 
-<h1 align="center">Hi 👋, I'm Rabia</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">42Kocaeli student</h3>
 
 - 📫 Mail **calikrabia1317@gmail.com**
